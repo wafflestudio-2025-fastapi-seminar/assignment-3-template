@@ -1,0 +1,1 @@
+ERD_LINK = "https://foo.bar" # TODO: 여기에 ER 다이어그램 링크를 작성해주세요.
